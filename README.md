@@ -16,4 +16,3 @@
   <li>**Search History:** Maintain a history of visited websites for easy access.</li>
 </ul>
 
-**Description:**
