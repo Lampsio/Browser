@@ -16,3 +16,5 @@
   <li>**Search History:** Maintain a history of visited websites for easy access.</li>
 </ul>
 
+**GUI:**
+<img src="view1.png" alt="JavaPaint Screenshot">
